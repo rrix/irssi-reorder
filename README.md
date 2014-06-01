@@ -1,7 +1,7 @@
 Irssi Reordering
 ----------------
 
-This script munges the output of the [irssi reorder][1] sript in to the input of
+This script munges the output of the [irssi reorder][1] script in to the input of
 the [irssi reorder][1] based on how often out talk in a channel.
 
 In irssi:
